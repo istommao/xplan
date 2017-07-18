@@ -130,7 +130,6 @@ codingcat learning plan
 - TCP/IP
 
 
-
 ## 信息安全
 
 ### 对称加密
@@ -150,5 +149,5 @@ codingcat learning plan
 - 公钥私钥原理
 - 公钥秘密算法
     - RSA公钥秘密算法
-    - [x] Diffie-Hellman密钥交换
+    - Diffie-Hellman密钥交换
 - 数字签名
