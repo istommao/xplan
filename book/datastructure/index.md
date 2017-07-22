@@ -11,9 +11,59 @@
 - 表头: 线性表起始位置
 - 表尾: 表结束的位置
 
-
 - [x]数组实现
 - [x]链表实现
+
+**数组实现**
+
+```c
+#define MAXSIZE 30;
+typedef int ElementType;
+
+typedef struct {
+    ElementType data[MAXSIZE];
+    int last;
+} List;
+
+
+List createList()
+{
+    List *P;
+    P = (List *)malloc(sizeof(List));
+    P->last = -1;
+    return P;
+}
+
+int insertItem(ElementType item, int i, List *P)
+{
+    int j;
+    if (P->last == MAXSIZE - 1) {
+        printf("表已满")
+        return -1;
+    }
+    if (i < 1 || i > P->last + 2) {
+        printf("插入位置不合法");
+        return -1;
+    }
+    for (j = P->last; j >= i - 1; j--)
+        P->data[j+1] = P->data[j];
+    P->data[i-1] = item;
+    P->last++;
+    return 1;
+}
+
+int findByItem(ElementType item, List *P)
+{
+    int i = 0;
+    while (i <= P->last && P->data[i] != item)
+        i++;
+
+    if (i > P->last)
+        return -1;
+    else
+        return i;
+}
+```
 
 
 ## 栈与队列
