@@ -169,3 +169,11 @@ codingcat learning plan
 - http://www.bootcss.com/p/git-guide/
 - https://git-scm.com/doc
 - https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+## vagrant
+
+- https://imququ.com/post/vagrantup.html
+- http://blog.leanote.com/post/wuliang/Max-Os-Virtualbox
+- http://www.jianshu.com/p/7747c31012f8
+
+## docker
