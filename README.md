@@ -178,6 +178,11 @@ codingcat learning plan
 
 ## docker
 
+- http://www.runoob.com/docker/docker-tutorial.html
+- http://www.docker.org.cn/book/docker/what-is-docker-16.html
+- https://www.gitbook.com/book/yeasy/docker_practice/details
+
+
 ## 系统架构
 
 ### 缓存相关
@@ -291,3 +296,11 @@ codingcat learning plan
 > 对于大型系统来说，一般会有多个团队或者工程师同时进行开发。需要对相同的代码库进行版本管理和发布管理。目前大部分开发团队都采用SVN和Git等工具来进行代码管理和发布。
 
 - Git是一个开源的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理，是目前最流行的代码管理工具之一。
+
+
+
+## 机器学习 AI 人工智能
+
+- 机器学习工程师必知的十大算法 http://www.infoq.com/cn/articles/10-algorithms-machine-learning-engineers-need-to-know
+
+- 机器学习 https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009-cn-basic
