@@ -304,3 +304,11 @@ codingcat learning plan
 - 机器学习工程师必知的十大算法 http://www.infoq.com/cn/articles/10-algorithms-machine-learning-engineers-need-to-know
 
 - 机器学习 https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009-cn-basic
+
+
+## 书籍 Book
+
+- 编程匠艺 (防御性编程)
+- TCP/IP详解 (网络)
+- 操作系统
+- 算法
