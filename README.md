@@ -170,19 +170,6 @@ codingcat learning plan
 - https://git-scm.com/doc
 - https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
-## vagrant
-
-- https://imququ.com/post/vagrantup.html
-- http://blog.leanote.com/post/wuliang/Max-Os-Virtualbox
-- http://www.jianshu.com/p/7747c31012f8
-
-## docker
-
-- http://www.runoob.com/docker/docker-tutorial.html
-- http://www.docker.org.cn/book/docker/what-is-docker-16.html
-- https://www.gitbook.com/book/yeasy/docker_practice/details
-
-
 ## 系统架构
 
 ### 缓存相关
@@ -301,6 +288,19 @@ codingcat learning plan
 
 - vagrant
 - docker
+
+### vagrant
+
+- https://imququ.com/post/vagrantup.html
+- http://blog.leanote.com/post/wuliang/Max-Os-Virtualbox
+- http://www.jianshu.com/p/7747c31012f8
+
+### docker
+
+- http://www.runoob.com/docker/docker-tutorial.html
+- http://www.docker.org.cn/book/docker/what-is-docker-16.html
+- https://www.gitbook.com/book/yeasy/docker_practice/details
+
 
 
 ## 机器学习 AI 人工智能
